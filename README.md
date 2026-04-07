@@ -140,6 +140,16 @@
                             <div class="col-sm-5">
                                 <p class="lead font-weight-bold">Técnico em Telecomunicões</p>
                                 <p>Atividades: Programar o sistema de telecomunicações: identificar falhas no sistema de telecomunicações, avaliar a necessidade de conserto, avaliar as interfaces dos equipamentos e componentes, testar conexões, especificar equipamentos (comutação, transmissão, rede e comunicação de dados).</p>
+                    </section>
+                <hr>
+                <section id="Projetos">
+                    <div class="container">
+                        <br><br>
+                        <h1 class="display-4">Projetos</h1>
+                        <br><br>
+                      <div class="row">
+                            <div class="col-sm-4"> 
+              <span class="font-weight-bold">Visite a seção <a href="https://github.com/Sandra23U/Desafio-03-Dio-Campus-Expert-Turma-08.git">PROJETOS</a> para visualizar os trabalhos que realizei com minhas habilidades</span>                  
                             </div>
                             <div class="col-sm-3">
                                 <p
